@@ -1,0 +1,21 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.7.3",
+    "mtrx": "^0.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "chai": "^4.2.0",
+    "typescript": "^5.6.2"
+  }
+}
